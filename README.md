@@ -4,13 +4,23 @@
 # A Passionate Android Developer 🚀 
 
 ## About Me
-
-* 📱 Android Developer
-* 😌 Founder of [AndroidMood](http://medium.com/androidmood) a french Android development publication
-* :microphone: Tech Speaker 
-* 📝 Open Source Contributor
+```kotlin
+val farouk = developer {
+    about {
+        name = "Farouk Sabiou"
+        company = ""
+        role = Android Engineer
+    }
+    tech("Kotlin", "Java", "Firebase", "Ktor", "PostgreSQL")
+    interests("ML", "Design", "Product Management")
+    links {
+        twitter = "@sabiiou"
+        linkedin = "farouksabiou"
+    }
+}
+```
 ## 
-## Reach me via 👇
+## Reach me 👇
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farouksabiou/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/sabiiou)
