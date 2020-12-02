@@ -1,7 +1,15 @@
 ### Hi there, I'm Farouk 👋
 
 
-# Passionate Android Developer 🚀 
+## Passionate Android Developer 🚀 
+
+## Reach me
+<a href="https://twitter.com/sabiiou">
+  <img align="left" alt="Farouk's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/farouksabiou">
+  <img align="left" alt="Farouk's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 ## About Me
 ```kotlin
