@@ -1,7 +1,7 @@
 ### Hi there, I'm Farouk 👋
 
 
-# A Passionate Android Developer 🚀 
+# Passionate Android Developer 🚀 
 
 ## About Me
 ```kotlin
