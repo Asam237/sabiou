@@ -1,9 +1,9 @@
 ### Hi there, I'm Farouk 👋
 
 
-## Passionate Android Developer 🚀 
+### Passionate Android Developer 🚀 
 
-## Reach me
+### Reach me 👇
 <a href="https://twitter.com/sabiiou">
   <img align="left" alt="Farouk's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -11,7 +11,6 @@
   <img align="left" alt="Farouk's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-## About Me
 ```kotlin
 val farouk = developer {
     about {
@@ -40,10 +39,3 @@ val farouk = developer {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
-
-
-## Reach me 👇
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farouksabiou/)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/sabiiou)
-[![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge&logo=dev)](https://dev.to/sabiou)
