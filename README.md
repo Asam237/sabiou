@@ -1,9 +1,10 @@
-### Hi there, I'm Farouk 👋
+**Hi there, I'm Farouk Sabiou 👋**
+
+**Passionate Android Developer 🚀** 
+
+**Reach me 👇**
 
 
-### Passionate Android Developer 🚀 
-
-### Reach me 👇
 <a href="https://twitter.com/sabiiou">
   <img align="left" alt="Farouk's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -11,21 +12,8 @@
   <img align="left" alt="Farouk's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-```kotlin
-val farouk = developer {
-    about {
-        name = "Farouk Sabiou"
-        company = ""
-        role = Android Engineer
-    }
-    tech("Kotlin", "Java", "Firebase", "Ktor", "PostgreSQL")
-    interests("ML", "Design", "Product Management")
-    links {
-        twitter = "@sabiiou"
-        linkedin = "farouksabiou"
-    }
-}
-```
+... coming soon
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
