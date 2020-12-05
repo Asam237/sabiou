@@ -5,6 +5,7 @@
 - 🧑🏽‍💻 I write articles (🇫🇷) on Android developement and Kotlin on [@androidmood](https://medium.com/androidmood)
 - 🎤 I speak at tech events
 - 🙌 I build community (GDG Maradi 🇳🇪 , Douala Kotlin User Group 🇨🇲)
+- ⚽ fan and music lover 🎧
 
 <h4>Reach me<h4/>
 
