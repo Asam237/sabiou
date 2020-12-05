@@ -1,8 +1,7 @@
-<h4 align="center" >Hi there, I'm Farouk Sabiou 👋<h4/>
-<h4 align="center">Passionate Android Developer</h4>
+<h3>Hi there 👋</h3>
   
 - 📱 I do mobile development (primarily Android)
-- 🚀 I'm currently learning kotlin server-side developement with ktor
+- 🔭 I'm currently learning kotlin server-side developement with ktor
 - 🧑🏽‍💻 I write articles (🇫🇷) on Android developement and Kotlin on [@androidmood](https://medium.com/androidmood)
 - 🎤 I speak at tech events
 - 🙌 I build community (GDG Maradi 🇳🇪 , Douala Kotlin User Group 🇨🇲)
