@@ -9,13 +9,13 @@
 <h4>Reach me<h4/>
 
 <a href="https://twitter.com/sabiiou">
-  <img alt="Farouk's Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
+  <img height="30" width="30" alt="Farouk's Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
 </a>
 <a href="https://linkedin.com/in/farouksabiou">
-  <img alt="Farouk's Linkdein" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
+  <img height="30" width="30" alt="Farouk's Linkdein" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
   <a href="mailto:sfarouk298@gmail.com">
-  <img alt="Mail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+  <img height="30" width="30" alt="Mail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
 </a>
 
 
