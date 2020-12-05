@@ -7,7 +7,7 @@
 - 🙌 I build community (GDG Maradi 🇳🇪 , Douala Kotlin User Group 🇨🇲)
 - ⚽ fan and music lover 🎧
 
-<h4>Reach me<h4/>
+<h3>Reach me<h3/>
 
 <a href="https://twitter.com/sabiiou">
   <img height="30" width="30" alt="Farouk's Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
