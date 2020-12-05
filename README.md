@@ -1,6 +1,6 @@
-<h2 align="center" >**Hi there, I'm Farouk Sabiou 👋**<h2/>
+<h2 align="center" >Hi there, I'm Farouk Sabiou 👋<h2/>
 
-<h3 align="center">**Passionate Android Developer 🚀**</h3>
+<h3 align="center">Passionate Android Developer 🚀</h3>
 
 **Reach me 👇**
 
