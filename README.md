@@ -7,14 +7,14 @@
 - 🎤 I speak at tech events
 - 🙌 I build community (GDG Maradi 🇳🇪 , Douala Kotlin User Group 🇨🇲)
 
-<h3 align="center" >Reach me 👇</h3>
+<h4 align="center" >Reach me 👇</h4>
 
 <p align="center">
 <a href="https://twitter.com/sabiiou">
-  <img alt="Farouk's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="Farouk's Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
 </a>
 <a href="https://linkedin.com/in/farouksabiou">
-  <img alt="Farouk's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Farouk's Linkdein" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
 </p>
 
