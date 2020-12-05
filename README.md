@@ -1,18 +1,21 @@
-<h2 align="center" >Hi there, I'm Farouk Sabiou 👋<h2/>
+<h3 align="center" >Hi there, I'm Farouk Sabiou 👋<h3/>
+<h3 align="center">Passionate Android Developer</h3>
+  
+- 📱 I do mobile development (primarily Android)
+- 🚀 I'm currently learning kotlin server-side developement with ktor
+- 🧑🏽‍💻 I write articles (🇫🇷) on Android developement on [@androidmood](https://medium.com/androidmood) 
 
-<h3 align="center">Passionate Android Developer 🚀</h3>
+<h3 align="center" >**Reach me 👇**</h3>
 
-**Reach me 👇**
-
-
+<p align="center">
 <a href="https://twitter.com/sabiiou">
-  <img align="left" alt="Farouk's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="Farouk's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/farouksabiou">
-  <img align="left" alt="Farouk's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Farouk's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+</p>
 
-... coming soon
 
 **Languages and Tools:**  
 
