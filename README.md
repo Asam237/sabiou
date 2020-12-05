@@ -16,6 +16,9 @@
 <a href="https://linkedin.com/in/farouksabiou">
   <img alt="Farouk's Linkdein" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
+  <a href="mailto:sfarouk298@gmail.com">
+  <img alt="Mail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+</a>
 </p>
 
 
