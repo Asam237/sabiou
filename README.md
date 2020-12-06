@@ -6,6 +6,7 @@
 - 🎤 I speak at tech events
 - 🙌 I build community (GDG Maradi 🇳🇪 , Douala Kotlin User Group 🇨🇲)
 - ⚽ fan and music lover 🎧
+- Reach me on [Twitter]("https://twitter.com/sabiiou") - [Linkedin]("https://linkedin.com/in/farouksabiou/")
 
 <h3>Reach me<h3/>
 
