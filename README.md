@@ -4,7 +4,7 @@
 - 🔭 I'm currently learning kotlin server-side developement with ktor and KMM (Kotlin Multiplatform Mobile)
 - 🧑🏽‍💻 I write articles (🇫🇷) on Android developement and Kotlin on [@androidmood](https://medium.com/androidmood)
 - 🎤 I speak at tech events
-- 🙌 I build community (GDG Maradi 🇳🇪 , Douala Kotlin User Group 🇨🇲)
+- 🙌 I build communities (GDG Maradi 🇳🇪 , Douala Kotlin User Group 🇨🇲)
 - ⚽ fan and music lover 🎧
 - 👉 Reach me on [Twitter](https://twitter.com/sabiiou) - [Linkedin](https://www.linkedin.com/in/farouksabiou/)
 
