@@ -1,4 +1,4 @@
-<h3>Hi there 👋</h3>
+<h3>Hi there 👋</h3> <img align="right" height="100" weight="100" src="https://raw.githubusercontent.com/sabiou/sabiou/master/gitocat.png"/>
   
 - 📱 I do mobile development (primarily Android)
 - 🎓 [Udacity](https://www.udacity.com/school-of-programming) Nanodegree graduate
