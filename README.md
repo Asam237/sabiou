@@ -6,7 +6,7 @@
 - 🧑🏽‍💻 **I write articles** (🇫🇷) on Android developement and Kotlin on [@androidmood](https://medium.com/androidmood)
 - 🎤 **I speak** at tech events
 - 🙌 **I build communities** (GDG Maradi 🇳🇪 , Douala Kotlin User Group 🇨🇲)
-- ⚽ fan and music lover 🎧
+- **⚽ fan and music lover 🎧**
 - [@sabiiou](https://twitter.com/sabiiou) on Twitter
 - [#in/farouksabiou](https://www.linkedin.com/in/farouksabiou/) on Linkedin
 
