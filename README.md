@@ -1,11 +1,11 @@
 <h3>Hi there 👋</h3> <img align="right" height="100" weight="100" src="https://raw.githubusercontent.com/sabiou/sabiou/master/gitocat.png"/>
   
-- 📱 I do mobile development (primarily Android)
-- 🎓 [Udacity](https://www.udacity.com/school-of-programming) Nanodegree graduate
-- 🔭 I'm currently learning kotlin server-side developement with ktor and KMM (Kotlin Multiplatform Mobile)
-- 🧑🏽‍💻 I write articles (🇫🇷) on Android developement and Kotlin on [@androidmood](https://medium.com/androidmood)
-- 🎤 I speak at tech events
-- 🙌 I build communities (GDG Maradi 🇳🇪 , Douala Kotlin User Group 🇨🇲)
+- 📱 **I do mobile development (primarily Android)**
+- 🎓 **[Udacity](https://www.udacity.com/school-of-programming)** Nanodegree graduate
+- 🔭 I'm currently **learning kotlin server-side developement with ktor and KMM (Kotlin Multiplatform Mobile)**
+- 🧑🏽‍💻 **I write articles** (🇫🇷) on Android developement and Kotlin on [@androidmood](https://medium.com/androidmood)
+- 🎤 **I speak** at tech events
+- 🙌 **I build communities** (GDG Maradi 🇳🇪 , Douala Kotlin User Group 🇨🇲)
 - ⚽ fan and music lover 🎧
 - [@sabiiou](https://twitter.com/sabiiou) on Twitter
 - [#in/farouksabiou](https://www.linkedin.com/in/farouksabiou/) on Linkedin
