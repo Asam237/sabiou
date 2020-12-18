@@ -9,6 +9,7 @@
 - **⚽ fan and music lover 🎧**
 - [@sabiiou](https://twitter.com/sabiiou) on Twitter
 - [#in/farouksabiou](https://www.linkedin.com/in/farouksabiou/) on Linkedin
+- [My slides](https://speakerdeck.com/sabiou/)
 
 Languages & Tools:
 
