@@ -1,8 +1,8 @@
 <h3>Hi there 👋</h3> <img align="right" height="100" weight="100" src="https://raw.githubusercontent.com/sabiou/sabiou/master/gitocat.png"/>
   
-- 📱 I do mobile development (primarily Android)
+- 📱 I do Mobile Development (primarily Android) & Backend (Kotlin, Ruby, Python)
 - 🎓 **[Udacity](https://www.udacity.com/school-of-programming)** Nanodegree graduate
-- 🔭 I'm currently **learning** kotlin server-side developement with ktor and KMM (Kotlin Multiplatform Mobile)
+- 🔭 I'm currently **learning** React Native & Flutter.
 - 🧑🏽‍💻 I **write** articles(🇫🇷) on Android developement and Kotlin on [@androidmood](https://medium.com/androidmood)
 - 🎤 I **speak** at tech events
 - 🙌 I **build** communities (GDG Maradi 🇳🇪 , Douala Kotlin User Group 🇨🇲)
